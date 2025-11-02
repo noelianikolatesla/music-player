@@ -1,6 +1,9 @@
 # 🎵 Music Player
 
-![Music Player Banner](https://raw.githubusercontent.com/noelianikolatesla/music-player/main/banner.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/noelianikolatesla/music-player/main/banner.png" alt="Music Player Banner" width="800">
+</p>
+
 
 <!-- Puedes cambiar esta imagen por la tuya o usar tu banner personalizado -->
 
@@ -65,7 +68,9 @@ music-player/
 
 > *(Puedes reemplazar esta imagen con una captura real de tu reproductor)*
 
-![Music Player Banner](https://raw.githubusercontent.com/noelianikolatesla/music-player/main/banner.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/noelianikolatesla/music-player/main/banner.png" alt="Music Player Banner" width="800">
+</p>
 
 
 ---
