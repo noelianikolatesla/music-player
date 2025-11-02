@@ -64,7 +64,8 @@ music-player/
 
 > *(Puedes reemplazar esta imagen con una captura real de tu reproductor)*
 
-![Preview](https://i.imgur.com/9E5EB8f.png)
+![Music Player Banner](https://raw.githubusercontent.com/noelianikolatesla/music-player/main/banner.png)
+
 
 ---
 
