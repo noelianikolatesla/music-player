@@ -1,6 +1,7 @@
 # 🎵 Music Player
 
-![Music Player Banner](https://i.imgur.com/hLeEBtZ.png)
+![Music Player Banner](https://raw.githubusercontent.com/noelianikolatesla/music-player/main/banner.png)
+
 <!-- Puedes cambiar esta imagen por la tuya o usar tu banner personalizado -->
 
 > Reproductor musical simple hecho con **JavaScript** y **TailwindCSS**, que carga automáticamente canciones desde un repositorio público en GitHub.
