@@ -1,7 +1,7 @@
 # 🎵 Music Player
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/noelianikolatesla/music-player/main/banner.png" alt="Music Player Banner" width="800">
+  <img src="https://raw.githubusercontent.com/noelianikolatesla/music-player/main/banner.png" alt="Music Player Banner" width="400">
 </p>
 
 
@@ -69,7 +69,7 @@ music-player/
 > *(Puedes reemplazar esta imagen con una captura real de tu reproductor)*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/noelianikolatesla/music-player/main/banner.png" alt="Music Player Banner" width="800">
+  <img src="https://raw.githubusercontent.com/noelianikolatesla/music-player/main/banner.png" alt="Music Player Banner" width="400">
 </p>
 
 
